@@ -23,7 +23,13 @@
 ![codewars](https://www.codewars.com/users/anna_sofronova/badges/small)
 
 ### 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚎:
-[![Telegram](https://img.shields.io/badge/Telegram-323330?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Anna_Fawn) [![LinkedIn](https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-sofronova-9975a81ab/)
+<a href="mailto:sofronova.anna.frontend@gmail.com"><img src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<a href="https://t.me/Anna_Fawn"><img src="https://img.shields.io/badge/Telegram-323330?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/anna-sofronova-9975a81ab/"><img src="https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+
+
+<!-- [![Telegram](https://img.shields.io/badge/Telegram-323330?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Anna_Fawn) [![LinkedIn](https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-sofronova-9975a81ab/) -->
+
 
 ### 𝚂𝚝𝚊𝚝𝚞𝚜:
 ![](https://github-readme-stats.vercel.app/api?username=anysofronova&theme=github_dark&show_icons=true)
