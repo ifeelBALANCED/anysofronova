@@ -4,8 +4,7 @@
 
 <h4 align='center'> 📍  𝕀'𝕞 𝕠𝕡𝕖𝕟 𝕥𝕠 𝕟𝕖𝕨 𝕛𝕠𝕓 𝕠𝕡𝕡𝕠𝕣𝕥𝕦𝕟𝕚𝕥𝕚𝕖𝕤  </h4>
 
-<!-- <img src="https://camo.githubusercontent.com/21767a28c7519a3c5080f832441bb30ddbc71ab38035af021f1f1c6dd2da7692/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5556347253776c544d376d6e5261356c346f2f67697068792e676966">
- -->
+![](https://komarev.com/ghpvc/?username=anysofronova&color=59A5FE&style=for-the-badge)
  
 ### 💻 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:
 <div>
@@ -27,8 +26,6 @@
   <img src="https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=%23323330">
 </div> 
-
-
 
 ### 🎓 𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗:
   - Master of Physico-mathematical Sciences
