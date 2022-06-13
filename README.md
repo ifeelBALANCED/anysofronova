@@ -1,5 +1,5 @@
 <h1  align='center'>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=4000&color=59A5FE&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Anna+%F0%9F%A4%8D;I'm+Junior+FrontEnd+Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=4000&color=59A5FE&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Anna+%F0%9F%A4%8D;I'm+FrontEnd+Developer">
 </h1>
 
 <h4 align='center'> 📍  𝕀'𝕞 𝕠𝕡𝕖𝕟 𝕥𝕠 𝕟𝕖𝕨 𝕛𝕠𝕓 𝕠𝕡𝕡𝕠𝕣𝕥𝕦𝕟𝕚𝕥𝕚𝕖𝕤  </h4>
