@@ -35,6 +35,9 @@
     - Web Design for Everybody: Basics of Web Development & Coding Specialization
     - Специализация Разработка интерфейсов: вёрстка и JavaScript
 
+### 💼 𝚆𝚎𝚋𝚂𝚒𝚝𝚎: 
+![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=anysofronova&repo=anna-sofronova-portfolio&theme=github_dark&show_icons=true)
+
 ### 🖥 𝙲𝚘𝚍𝚎𝚠𝚊𝚛𝚜:
 ![codewars](https://www.codewars.com/users/anna_sofronova/badges/small)
 
@@ -48,4 +51,4 @@
 
 
 ### 𝚂𝚝𝚊𝚝𝚞𝚜:
-![](https://github-readme-stats.vercel.app/api?username=anysofronova&theme=github_dark&show_icons=true)
+![Status](https://github-readme-stats.vercel.app/api?username=anysofronova&theme=github_dark&show_icons=true)
