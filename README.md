@@ -52,3 +52,4 @@
 
 ### 𝚂𝚝𝚊𝚝𝚞𝚜:
 ![Status](https://github-readme-stats.vercel.app/api?username=anysofronova&theme=github_dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anysofronova&layout=compact&theme=github_dark)
