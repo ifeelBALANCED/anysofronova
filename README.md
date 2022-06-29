@@ -47,9 +47,12 @@
 <a href="https://www.linkedin.com/in/anna-sofronova-9975a81ab/"><img src="https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 
-<!-- [![Telegram](https://img.shields.io/badge/Telegram-323330?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Anna_Fawn) [![LinkedIn](https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-sofronova-9975a81ab/) -->
+### 𝙼𝚘𝚛𝚎 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anysofronova&theme=github_dark)
 
-### 𝚂𝚝𝚊𝚝𝚞𝚜:
-![Status](https://github-readme-stats.vercel.app/api?username=anysofronova&theme=github_dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anysofronova&layout=compact&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anysofronova&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anysofronova&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anysofronova&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anysofronova&theme=github_dark)
