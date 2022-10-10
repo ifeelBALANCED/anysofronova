@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=4000&color=59A5FE&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Anna+%F0%9F%A4%8D;I'm+FrontEnd+Developer">
 </h1>
 
-<h4 align='center'> 📍  𝕀'𝕞 𝕠𝕡𝕖𝕟 𝕥𝕠 𝕟𝕖𝕨 𝕛𝕠𝕓 𝕠𝕡𝕡𝕠𝕣𝕥𝕦𝕟𝕚𝕥𝕚𝕖𝕤  </h4>
+<!-- <h4 align='center'> 📍  𝕀'𝕞 𝕠𝕡𝕖𝕟 𝕥𝕠 𝕟𝕖𝕨 𝕛𝕠𝕓 𝕠𝕡𝕡𝕠𝕣𝕥𝕦𝕟𝕚𝕥𝕚𝕖𝕤  </h4> -->
 
 ![](https://komarev.com/ghpvc/?username=anysofronova&color=59A5FE&style=for-the-badge)
  
@@ -45,6 +45,7 @@
 <a href="mailto:anna.sofronova.frontend@gmail.com"><img src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="https://t.me/Anna_Fawn"><img src="https://img.shields.io/badge/Telegram-323330?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/anna-sofronova-9975a81ab/"><img src="https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://www.instagram.com/anya.fawn/"><img src="https://img.shields.io/badge/Instagram-%23323330.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
 
 ### 𝙼𝚘𝚛𝚎 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗
