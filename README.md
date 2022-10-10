@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=%23323330">
 </div> 
 
+&nbsp;  
 ### 🎓 𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗:
   - Master of Physico-mathematical Sciences
   - [Coursera Certificates](https://github.com/anysofronova/Coursera-Certificates/blob/main/README.md)
