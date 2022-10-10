@@ -1,5 +1,5 @@
 <h1  align='center'>
-  <img src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" alt="girl" width="400" align="left" margin='15px'>
+  <img src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" alt="girl" width="320" align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=4000&color=59A5FE&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Anna+%F0%9F%A4%8D;I'm+FrontEnd+Developer">
 </h1>
 
@@ -27,10 +27,6 @@
   &nbsp; <img src="https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=%23323330">
 </div> 
-
-&nbsp;  
-&nbsp;  
-&nbsp;  
 
 ### 🎓 𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗:
   - Master of Physico-mathematical Sciences
