@@ -1,6 +1,6 @@
 <h1  align='center'>
   <img src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" alt="girl" width="320" align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=4000&color=59A5FE&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Anna+%F0%9F%A4%8D;I'm+FrontEnd+Developer" width="320">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&duration=4000&color=59A5FE&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Anna+%F0%9F%A4%8D;I'm+FrontEnd+Developer" width="320">
 </h1>
 
 
