@@ -1,27 +1,27 @@
 <h1  align='center'>
-  <img src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" alt="girl" width="320" align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=32&duration=4000&color=59A5FE&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Anna+%F0%9F%A4%8D;I'm+FrontEnd+React+Developer" width="320">
+  <img src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" alt="girl" width="320" align="right">
 </h1>
 
 <!-- <h4 align='center'> 📍  𝕀'𝕞 𝕠𝕡𝕖𝕟 𝕥𝕠 𝕟𝕖𝕨 𝕛𝕠𝕓 𝕠𝕡𝕡𝕠𝕣𝕥𝕦𝕟𝕚𝕥𝕚𝕖𝕤  </h4> -->
 
-&nbsp; ![](https://komarev.com/ghpvc/?username=anysofronova&color=59A5FE&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=anysofronova&color=59A5FE&style=for-the-badge)
  
-### &nbsp; 💻 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:
+### 💻 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:
 <div>
-  &nbsp; <img src="https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/SASS-323330.svg?style=for-the-badge&logo=SASS&logoColor=white">
   <img src="https://img.shields.io/badge/tailwindcss-%23323330.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/-material_ui-%23323330?style=for-the-badge&logo=mui&logoColor=white">
  </div>  
 <div>
-  &nbsp; <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/redux-%23323330.svg?style=for-the-badge&logo=redux&logoColor=white">
 </div> 
 <div>
-  &nbsp; <img src="https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=%23323330">
 </div> 
 
