@@ -1,6 +1,6 @@
 <h1  align='center'>
   <img src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" alt="girl" width="320" align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=26&duration=4000&color=59A5FE&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Anna+%F0%9F%A4%8D;I'm+FrontEnd+React+Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=32&duration=4000&color=59A5FE&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Anna+%F0%9F%A4%8D;I'm+FrontEnd+React+Developer" width="320">
 </h1>
 
 <!-- <h4 align='center'> 📍  𝕀'𝕞 𝕠𝕡𝕖𝕟 𝕥𝕠 𝕟𝕖𝕨 𝕛𝕠𝕓 𝕠𝕡𝕡𝕠𝕣𝕥𝕦𝕟𝕚𝕥𝕚𝕖𝕤  </h4> -->
