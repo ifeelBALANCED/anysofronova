@@ -43,10 +43,10 @@
 [![Codewars](https://github-readme-stats.vercel.app/api/pin/?username=anysofronova&repo=code-wars&theme=github_dark&show_icons=true)](https://github.com/anysofronova/code-wars)
 
 ### 📱 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚎:
-<a href="mailto:anna.sofronova.frontend@gmail.com"><img src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-<a href="https://t.me/Anna_Fawn"><img src="https://img.shields.io/badge/Telegram-323330?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-<a href="https://www.linkedin.com/in/anna-sofronova-9975a81ab/"><img src="https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="https://www.instagram.com/anya.fawn/"><img src="https://img.shields.io/badge/Instagram-%23323330.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="mailto:anna.sofronova.frontend@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<a href="https://t.me/Anna_Fawn" target="_blank"><img src="https://img.shields.io/badge/Telegram-323330?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/anna-sofronova-9975a81ab/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://www.instagram.com/anya.fawn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23323330.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
 
 ### 𝙼𝚘𝚛𝚎 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗
