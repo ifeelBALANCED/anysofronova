@@ -35,12 +35,13 @@
     - Специализация Разработка интерфейсов: вёрстка и JavaScript
 
 ### 💼 𝚆𝚎𝚋𝚂𝚒𝚝𝚎: 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=anysofronova&repo=anna-sofronova-portfolio&theme=github_dark&show_icons=true)](https://github.com/anysofronova/anna-sofronova-portfolio)
+[![Portfolio-Anna](https://github-readme-stats.vercel.app/api/pin/?username=anysofronova&repo=anna-sofronova-portfolio&theme=github_dark)](https://github.com/anysofronova/anna-sofronova-portfolio)
 
 ### ⚔️ 𝙲𝚘𝚍𝚎𝚠𝚊𝚛𝚜:
 ![codewars](https://www.codewars.com/users/anna_sofronova/badges/small)  
   
-[![Codewars](https://github-readme-stats.vercel.app/api/pin/?username=anysofronova&repo=code-wars&theme=github_dark&show_icons=true)](https://github.com/anysofronova/code-wars)
+[![Code-Wars](https://github-readme-stats.vercel.app/api/pin/?username=anysofronova&repo=code-wars&theme=github_dark)](https://github.com/anysofronova/code-wars)
+  
 
 ### 📱 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚎:
 <a href="mailto:anna.sofronova.frontend@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white"></a> 
