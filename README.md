@@ -8,7 +8,7 @@
 ### 💻 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤:  
 <div>
   <img src="https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/SASS-323330.svg?style=for-the-badge&logo=SASS&logoColor=white">
+  <img src="https://img.shields.io/badge/SCSS-323330.svg?style=for-the-badge&logo=SCSS&logoColor=white">
   <img src="https://img.shields.io/badge/tailwindcss-%23323330.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/-material_ui-%23323330?style=for-the-badge&logo=mui&logoColor=white">
  </div>  
@@ -42,16 +42,14 @@
   
 
 ### 📱 𝔽𝕠𝕝𝕝𝕠𝕨 𝕞𝕖:  
-<a href="mailto:anna.sofronova.frontend@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-<a href="https://t.me/Anna_Fawn" target="_blank"><img src="https://img.shields.io/badge/Telegram-323330?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-<a href="https://www.linkedin.com/in/anna-sofronova-9975a81ab/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="https://www.instagram.com/anya.fawn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23323330.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="mailto:anna.sofronova.frontend@gmail.com"><img src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<a href="https://t.me/Anna_Fawn"><img src="https://img.shields.io/badge/Telegram-323330?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/anna-sofronova-9975a81ab/"><img src="https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://www.instagram.com/anya.fawn/"><img src="https://img.shields.io/badge/Instagram-%23323330.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://discord.com/users/Anna.Fawn#1046"><img src="https://img.shields.io/badge/Discord-%23323330.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 
 ### ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟𝕤: 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=anysofronova&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anysofronova&theme=github_dark)
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
@@ -61,5 +59,7 @@
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anysofronova&theme=github_dark) -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anysofronova&theme=github_dark) -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anysofronova&theme=github_dark) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=anysofronova&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D) -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anysofronova&theme=github_dark) -->
 
 
