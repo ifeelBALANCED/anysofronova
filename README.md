@@ -9,19 +9,30 @@
 <div>
   <img src="https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/SCSS-323330.svg?style=for-the-badge&logo=SCSS&logoColor=white">
-  <img src="https://img.shields.io/badge/tailwindcss-%23323330.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/-material_ui-%23323330?style=for-the-badge&logo=mui&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-323330.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white">
+  <img src="https://img.shields.io/badge/MUI-323330.svg?style=for-the-badge&logo=MUI&logoColor=white">
  </div>  
 <div>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/redux-%23323330.svg?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/React%20Router-323330.svg?style=for-the-badge&logo=React-Router&logoColor=white">
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-323330.svg?style=for-the-badge&logo=React-Hook-Form&logoColor=white">
+  <img src="https://img.shields.io/badge/MobX-323330.svg?style=for-the-badge&logo=MobX&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-323330.svg?style=for-the-badge&logo=Firebase&logoColor=white"
 </div> 
 <div>
   <img src="https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/vercel-%23323330.svg?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Yarn-323330.svg?style=for-the-badge&logo=Yarn&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-323330.svg?style=for-the-badge&logo=Vite&logoColor=white">
   <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=%23323330">
+  <img src="https://img.shields.io/badge/mac%20os-323330?style=for-the-badge&logo=macos&logoColor=F0F0F0">
 </div> 
+
+<!-- <img src=""> -->
+
 
 &nbsp;  
 ### 🎓 𝔼𝕕𝕦𝕔𝕒𝕥𝕚𝕠𝕟:  
